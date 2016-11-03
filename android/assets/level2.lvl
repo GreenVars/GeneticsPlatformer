@@ -1,0 +1,11 @@
+35 0 Static Box 30 10
+80 10 Static Box 20 30
+50 30 Static Circle 3
+125 20 Kinetic 110 30 90 10 Box 15 10 20 0
+200 40 Static Box 20 5 0 10
+225 20 Kinetic 225 15 10 100 Box 20 5 0 20
+290 100 Static Box 40 2
+360 110 Kinetic 355 60 105 60 Box 20 20 20 20
+485 0 Static Box 4 70
+485 190 Static Box 4 70
+560 10 Dynamic -100 -100 2000 2000 Circle 1 100 10
